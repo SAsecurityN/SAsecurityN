@@ -1,17 +1,11 @@
-<p align="center">
+<p align="left">
   <br><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Said-Abbosxon+Nabijonov;Certified+Penetration+Tester;0day+enjoyer+%F0%9F%90%89;OSINT+%2F+WAPT+addicted" alt="Typing SVG" />
 </p>
 <br>
 
-<div align="center">
-```text
-whoami
-                            ╭───────────────────────────────────────────────────────╮
-                            │ • eJPT • eWPT • eCPPT                                 │
-                            │ • Web App Pentest • Love OSINT • Privacy enjoyer      │
-                            ╰───────────────────────────────────────────────────────╯
-  ```
+<div align="left">
+
 
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&#x26;logo=github&#x26;logoColor=white" alt="GitHub">
 
@@ -38,6 +32,10 @@ Wish to make the world a more secure place 🛡️
 Did both VDPs and Bug Bounties 🪲
 
 **Notable finds in my pentests/security assessments**: *AI Prompt Injection, AWS Misconfiguration, SQL Injection, XXE, IDOR, SSTI*
+
+
+
+
 
 ## What I've already shared on GitHub:
 [A Rapid Windows 11 Security Checklist – Quick tips for hardening Windows 11.](https://github.com/SAsecurityN/A-Rapid-Windows-11-Security-Checklist)
