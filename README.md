@@ -24,14 +24,13 @@
 I'm a certified penetration tester who loves privacy, Linux, and does some OSINT as a hobby. These days I mainly focus on Web Application Penetration Testing (WAPT).
 
 **My journey so far**:
-Penetration testing across various sectors - from logistics to healtchare, identifying 100+ vulnerabilities 🚨
-Helped secure at least 6,000+ sensitive data records - some of them include people's pasport info, full living and working address, passwords, and more... 🔐
-OSINT investigations that helped track down scammers and expose fraudulent platforms 💸
-A lot of solved labs 🧪
-Wish to make the world a more secure place 🛡️
-Did both VDPs and Bug Bounties 🪲
-
-**Notable finds in my pentests/security assessments**: *AI Prompt Injection, AWS Misconfiguration, SQL Injection, XXE, IDOR, SSTI*
+- Penetration testing across various sectors - from logistics to healtchare, identifying 100+ vulnerabilities 🚨
+- Helped secure at least 6,000+ sensitive data records - some of them include people's pasport info, full living and working address, passwords, and more... 🔐
+- OSINT investigations that helped track down scammers and expose fraudulent platform 💸
+- A lot of solved labs 🧪
+- Wish to make the world a more secure place 🛡️
+- Did both VDPs and Bug Bounties 🪲
+- **Notable finds in my pentests/security assessments**: *AI Prompt Injection, AWS Misconfiguration, SQL Injection, XXE, IDOR, SSTI*
 
 
 
