@@ -5,17 +5,17 @@
 <br>
 
 <div align="left">
-
-
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&#x26;logo=github&#x26;logoColor=white" alt="GitHub">
-
-
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&#x26;logo=linkedin&#x26;logoColor=white" alt="LinkedIn">
-
-
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&#x26;logo=medium&#x26;logoColor=white" alt="Medium">
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=SAsecurityN.SAsecurityN" alt="visitors">
+  <a href="https://github.com/SAsecurityN">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/0trc/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://medium.com/@0trccccc">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SAsecurityN.SAsecurityN" alt="visitors">
+</div>
 
 
 
