@@ -11,6 +11,7 @@ whoami
                             │ • eJPT • eWPT • eCPPT                                 │
                             │ • Web App Pentest • Love OSINT • Privacy enjoyer      │
                             ╰───────────────────────────────────────────────────────╯
+  ```
 
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&#x26;logo=github&#x26;logoColor=white" alt="GitHub">
 
