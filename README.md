@@ -7,4 +7,5 @@
   - eJPT, eWPT, eCPPT
 
 My Medium: https://medium.com/
+
 Linkedin: https://www.linkedin.com/feed/
