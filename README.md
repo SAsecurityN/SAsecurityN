@@ -21,8 +21,4 @@ whoami
   
 
 
-<img src="https://img.shields.io/badge/Pentest%20Hours%3A-Over%209000-red?style=flat-square&#x26;logo=clock&#x26;logoColor=white">
-  
-
-
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SAsecurityN.SAsecurityN" alt="visitors">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=SAsecurityN.SAsecurityN" alt="visitors">
