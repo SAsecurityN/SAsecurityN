@@ -1,6 +1,6 @@
 <p align="left">
   <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Said-Abbosxon+Nabijonov;Certified+Penetration+Tester;0day+enjoyer+%F0%9F%90%89;OSINT+%2F+WAPT+addicted" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Said-Abbosxon+Nabijonov;Certified+Penetration+Tester;OSINT+lover+%F0%9F%90%89;OSINT+%2F+WAPT+addicted" alt="Typing SVG" />
 </p>
 <br>
 
