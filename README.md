@@ -5,6 +5,9 @@
 <br>
 
 <div align="left">
+  <a href="https://x.com/0trccc">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
   <a href="https://github.com/SAsecurityN">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
