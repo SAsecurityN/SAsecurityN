@@ -28,3 +28,4 @@ I'm a certified penetration tester who loves Privacy, Linux, and OSINT.
 - Did both VDPs and Bug Bounties 🪲
 - Occasional Bug Bounties 🪲
 - **Notable finds in my pentests/security assessments**: *Prompt Injection, SQL Injection, XXE, IDOR, SSTI, Stored XSS, 403 bypass, and so on...*
+- Certs: eJPT (Jan 8, 2025); eWPT (Mar 20, 2025); eCPPT (Jul 12, 2025); COAE (Jun 29, 2026)
