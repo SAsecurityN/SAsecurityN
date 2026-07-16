@@ -22,8 +22,6 @@
 
 A **pentester** who loves **Cyber, Privacy, Linux, and OSINT**.
 
-<img align="right" width="42%" src="https://raw.githubusercontent.com/SAsecurityN/SAsecurityN/output/github-contribution-grid-snake-dark.svg">
-
 **Track record**
 - 🚨 **100+ vulnerabilities** identified across sectors — logistics to healthcare
 - 🔐 Helped secure **6,000+ sensitive records** — passports, home & work addresses, passwords, and more
