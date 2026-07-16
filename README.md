@@ -23,12 +23,11 @@
 A **pentester** who loves **Cyber, Privacy, Linux, and OSINT**.
 
 **Track record**
-- 🚨 **100+ vulnerabilities** identified across sectors — logistics to healthcare
+- 🚨 **100+ vulnerabilities** identified across sectors — AI to Logistics
 - 🔐 Helped secure **6,000+ sensitive records** — passports, home & work addresses, passwords, and more
 - 💸 **OSINT investigations** that tracked down scammers and exposed fraudulent platforms
-- 🧪 A long trail of solved labs & CTFs
-- 🪲 Ran both **VDPs and Bug Bounties**
-- 🧠 First to earn the **COAE in Central Asia**
+- 🧪 A long trail of solved labs
+- 🪲 Participated in both **VDPs and Bug Bounties**
 
 **Notable finds:** `Prompt Injection` · `SQL Injection` · `XXE` · `IDOR` · `SSTI` · `Stored XSS` · `403 Bypass` — *and more.*
 
