@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="banner" width="100%">
+  <img src="assets/banner.jpg" alt="banner" width="100%">
 </p>
 
 <div align="center">
@@ -20,8 +20,7 @@
 
 ## `whoami`
 
-A **certified penetration tester** who lives for **Privacy, Linux, and OSINT**.
-Junior on paper once — now the one who finds what senior operators walk past.
+A **pentester** who loves **Cyber, Privacy, Linux, and OSINT**.
 
 <img align="right" width="42%" src="https://raw.githubusercontent.com/SAsecurityN/SAsecurityN/output/github-contribution-grid-snake-dark.svg">
 
