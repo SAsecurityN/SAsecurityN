@@ -55,15 +55,12 @@ A **pentester** who loves **Cyber, Privacy, Linux, and OSINT**.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SAsecurityN&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=A0A0A0&icon_color=FFFFFF&include_all_commits=true&count_private=true" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SAsecurityN&hide_border=true&background=0D0D0D&stroke=A0A0A0&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=A0A0A0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=808080" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAsecurityN&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=A0A0A0&langs_count=8" />
 
 </div>
 
 ---
 
 <div align="center">
-<sub><i>“The one who fears failure more than trying will experience both.”</i></sub>
+<sub>“The one who fears failure more than trying will experience both.”</sub>
 </div>
