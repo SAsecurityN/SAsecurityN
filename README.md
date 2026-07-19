@@ -4,7 +4,11 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=Certified+Penetration+Tester;AI+Red+Teamer+%7C+Web+%7C+AD+%2F+Infrastructure;OSINT+Enthusiast+%7C+Scammer+Hater+%7C+Hunt+Them+Down;Privacy+.+Linux+.+Freedom)](https://github.com/SAsecurityN)
+[
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=Certified+Penetration+Tester;AI+Red+Teamer+%7C+Web+%7C+AD+%2F+Infrastructure;Hunt+Them+Down;Privacy+.+Linux+.+Freedom)
+
+](https://github.com/SAsecurityN)
 
 <a href="https://x.com/0trccc"><img src="https://img.shields.io/badge/X-0D0D0D?style=for-the-badge&logo=x&logoColor=white"></a>
 <a href="https://github.com/SAsecurityN"><img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -22,13 +26,12 @@
 
 **Pentester** who loves **Cyber, Privacy, Linux, and OSINT**.
 
-[My blog](https://sasecurityn.github.io/)
-
+<a href="https://sasecurityn.github.io/"><img src="https://img.shields.io/badge/%F0%9F%94%97_Read_My_Blog-0D0D0D?style=for-the-badge&logo=githubpages&logoColor=FFFFFF&labelColor=0D0D0D"></a>
 
 **Track record**
 - 🚨 **100+ vulnerabilities** identified across sectors — AI to Logistics
 - 🔐 Helped secure **6,000+ sensitive records** — passports, home & work addresses, passwords, and more
-- 💸 **OSINT investigations** that tracked down scammers and exposed fraudulent platforms
+- 💸 **OSINT investigations** that tracked down scammers and exposed a fraudulent platform
 - 🧪 A long trail of solved labs
 - 🪲 Participated in both **VDPs and Bug Bounties**
 
