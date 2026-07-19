@@ -4,11 +4,8 @@
 
 <div align="center">
 
-[
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=Certified+Penetration+Tester;AI+Red+Teamer+%7C+Web+%7C+AD+%2F+Infrastructure;Hunt+Them+Down;Privacy+.+Linux+.+Freedom)
 
-](https://github.com/SAsecurityN)
 
 <a href="https://x.com/0trccc"><img src="https://img.shields.io/badge/X-0D0D0D?style=for-the-badge&logo=x&logoColor=white"></a>
 <a href="https://github.com/SAsecurityN"><img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=white"></a>
