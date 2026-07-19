@@ -20,7 +20,10 @@
 
 ## `whoami`
 
-A **pentester** who loves **Cyber, Privacy, Linux, and OSINT**.
+**Pentester** who loves **Cyber, Privacy, Linux, and OSINT**.
+
+[My blog](https://sasecurityn.github.io/)
+
 
 **Track record**
 - 🚨 **100+ vulnerabilities** identified across sectors — AI to Logistics
